@@ -25,6 +25,7 @@ h2{
 }
 .link-button{
     text-decoration:none;
+    color:white;
     background-image: linear-gradient(orange, tomato);
     padding:10px 40px;
     border-radius:5px;
